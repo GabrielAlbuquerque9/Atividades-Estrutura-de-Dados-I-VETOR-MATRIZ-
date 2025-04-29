@@ -8,9 +8,9 @@ Aqui estão incluídos exercícios ilustram os principais conceitos abordados, c
 
 ## 📁 Estrutura do Repositório
 
-- `Exercicio01` — Contém o arquivo com o exercício referente a vetor 
-- `Exercicio02` — Contém o arquivo com o exercício referente a matriz 
-- `Exercicio03` — Contém o arquivo com o exercício referente a vetor 
-- `Exercicio04` — Contém o arquivo com o exercício referente a matriz 
-- `Exercicio05` — Contém o arquivo com o exercício referente a matriz 
-- `README.md` — Instruções sobre o repositório 
+- `Exercicio01` — Contém o arquivo com o exercício referente a vetor.
+- `Exercicio02` — Contém o arquivo com o exercício referente a matriz. 
+- `Exercicio03` — Contém o arquivo com o exercício referente a vetor.
+- `Exercicio04` — Contém o arquivo com o exercício referente a matriz. 
+- `Exercicio05` — Contém o arquivo com o exercício referente a matriz.
+- `README.md` — Instruções sobre o repositório.
